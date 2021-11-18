@@ -1,3 +1,6 @@
 __pycache__/
-.env
+*.env
+/env_var_folder/*
 .idea/
+*/venv
+.DS_Store
